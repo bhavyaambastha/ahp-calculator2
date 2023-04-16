@@ -8,7 +8,7 @@ The Analytic Hierarchy Process (AHP) is a method for organizing and analyzing co
 
 [Wikipedia's article on AHP](https://en.wikipedia.org/wiki/Analytic_hierarchy_process)
 
-With the help of the [ahp node package](https://www.npmjs.com/package/ahp) and [charist.js](https://gionkunz.github.io/chartist-js/), we were able to make this AHP visualization tool a reality.
+With the help of the [ahp node package](https://www.npmjs.com/package/ahp) and [chartist.js](https://gionkunz.github.io/chartist-js/), we were able to make this AHP visualization tool a reality.
 
 
 ### This Major project is presented by:
