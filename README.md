@@ -1,6 +1,6 @@
 # Analytic Hierarchy Process (AHP) Calculator
 
-To try it out, go to [https://ahp-calculator.netlify.app/](https://ahp-calculator.netlify.app/).
+To try it out, go to [https://ahp-calculator2.netlify.app/](https://ahp-calculator2.netlify.app/).
 
 ## What is the Analytic Hierarchy Process?
 
